@@ -1,0 +1,7 @@
+.filter{
+    display: flex;
+    flex-direction: column;
+}
+.filterInput{
+    width: 150px;
+}

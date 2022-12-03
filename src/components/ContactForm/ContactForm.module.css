@@ -1,0 +1,24 @@
+.contactForm{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 10px;
+    
+   
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+   
+}
+.label{
+   
+}
+.button{
+    width: 100px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 20px;
+}
